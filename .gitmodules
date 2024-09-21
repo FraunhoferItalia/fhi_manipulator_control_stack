@@ -1,0 +1,4 @@
+[submodule "9_dependencies/urdf_parser"]
+	path = 9_dependencies/urdf_parser
+	url = https://github.com/FraunhoferItalia/urdf_parser.git
+	branch = ros1

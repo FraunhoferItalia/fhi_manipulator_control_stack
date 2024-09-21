@@ -1,0 +1,3 @@
+[submodule "ndof_robust_controller"]
+	path = ndof_robust_controller
+	url = https://fhi-git.fraunhofer.it/concert/manipulator-control/ndof_robust_controller.git
